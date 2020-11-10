@@ -1,0 +1,1 @@
+For this project I have decided to do a portfolio for my best friend Melina to display some of her art. So far I have some of her works, that take you to her online store when you click on them. I also have an about me page with some facts about her. I will be adding a contact me page as well as more of her art image on the home page. 
